@@ -6,7 +6,7 @@
 #define DHTTYPE DHT22
 #define DHTPIN  D4
 
-#define SLEEP_DELAY_IN_SECONDS  60
+#define SLEEP_DELAY_IN_SECONDS  300
 
 #define THING_SPEAK_ADDRESS  "api.thingspeak.com"
 
